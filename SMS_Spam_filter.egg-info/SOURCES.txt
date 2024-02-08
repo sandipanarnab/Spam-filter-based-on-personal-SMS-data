@@ -1,0 +1,9 @@
+README.md
+setup.py
+SMS_Spam_filter.egg-info/PKG-INFO
+SMS_Spam_filter.egg-info/SOURCES.txt
+SMS_Spam_filter.egg-info/dependency_links.txt
+SMS_Spam_filter.egg-info/entry_points.txt
+SMS_Spam_filter.egg-info/requires.txt
+SMS_Spam_filter.egg-info/top_level.txt
+src/__init__.py
