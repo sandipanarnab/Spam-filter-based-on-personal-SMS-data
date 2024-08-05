@@ -1,2 +1,5 @@
 # .gitignore
 Original SMS file/
+myvenv/
+models/
+notebooks/best_model_state.bin
